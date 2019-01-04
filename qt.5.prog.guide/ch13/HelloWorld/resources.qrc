@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/HelloWorld80.png</file>
+        <file>qml/HelloWorld/items.xml</file>
+    </qresource>
+</RCC>

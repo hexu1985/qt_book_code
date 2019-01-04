@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books>
+<books version="1.0">
+    <item>
+        <title>Qt 4.8 Reference</title>
+        <bookmark url="http://qt-project.org/doc/qt-4.8/"></bookmark>
+    </item>
+    <item>
+        <title>Qt 5.0 Reference</title>
+        <bookmark url="http://qt-project.org/doc/qt-5.0/"></bookmark>
+    </item>
+    <item>
+
+        <title>Qt developer communty</title>
+        <bookmark url="http://www.qt-dev.com/"></bookmark>
+    </item>
+</books>
